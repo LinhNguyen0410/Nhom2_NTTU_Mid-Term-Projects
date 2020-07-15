@@ -1,0 +1,6 @@
+C:\Users\DELL\AppData\Local\Temporary Projects\Nhom2_NIIE_Mid-term\bin\Release\Nhom2_NIIE_Mid-term.exe
+C:\Users\DELL\AppData\Local\Temporary Projects\Nhom2_NIIE_Mid-term\bin\Release\Nhom2_NIIE_Mid-term.pdb
+C:\Users\DELL\AppData\Local\Temporary Projects\Nhom2_NIIE_Mid-term\obj\x86\Release\Nhom2_NIIE_Mid-term.exe
+C:\Users\DELL\AppData\Local\Temporary Projects\Nhom2_NIIE_Mid-term\obj\x86\Release\Nhom2_NIIE_Mid-term.pdb
+C:\Users\DELL\Documents\day la bai giua ki\Nhom2_NIIE_Mid-term\Nhom2_NIIE_Mid-term\obj\x86\Release\Nhom2_NIIE_Mid-term.exe
+C:\Users\DELL\Documents\day la bai giua ki\Nhom2_NIIE_Mid-term\Nhom2_NIIE_Mid-term\obj\x86\Release\Nhom2_NIIE_Mid-term.pdb
